@@ -20,7 +20,7 @@ To utilize the software:
 3. Run the script to generate the stress analysis results.
 
 ## Output
-![Strain visualisation]([2d_FEM_Solver/Stress visualization.png](https://raw.githubusercontent.com/YoussefNassar-1959/2d_FEM_Solver/main/Stress%20visualization.png))
+![Strain visualisation](https://raw.githubusercontent.com/YoussefNassar-1959/2d_FEM_Solver/main/Stress%20visualization.png)
 
 ## Installation
 
